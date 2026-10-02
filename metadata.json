@@ -1,0 +1,8 @@
+{
+  "name": "Happy Birthday ",
+  "description": "A cinematic, emotional, and premium birthday animation system crafted with delicate pink gradients, bokeh, custom particle celebration, 3D cards, and a surprise reveal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
